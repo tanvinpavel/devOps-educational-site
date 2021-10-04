@@ -11,6 +11,7 @@ import Header from './Components/Header/Header';
 import Footer from './Components/Footer/Footer';
 import PageNotFound from './Components/PageNotFound/PageNotFound';
 import AllServices from './Components/AllServices/AllServices';
+import OurInstructors from './Components/OurInstructors/OurInstructors';
 
 function App() {
   return (
@@ -31,6 +32,10 @@ function App() {
 
           <Route path="/services">
             <AllServices></AllServices>
+          </Route>
+
+          <Route path="/instructor">
+            <OurInstructors></OurInstructors>
           </Route>
 
           <Route path="/about">
