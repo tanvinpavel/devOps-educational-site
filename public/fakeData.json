@@ -1,0 +1,114 @@
+[
+   {
+      "id":1111,
+      "name":"Cisco Certified Network Associate (CCNA)",
+      "img":"https://www.aptech.net.in/images/course/full/ccna-training.jpg",
+      "date":"1 Jan - 26 Aug 2021",
+      "duration":16,
+      "price":12000
+   },
+   {
+      "id":2222,
+      "name":"Data Structure & Algorithm Fundamentals",
+      "img":"https://synergisticit.com/wp-content/uploads/2020/09/How-Data-Structures-and-Algorithms-are-important-for-Computer-Science-Graduates.jpg",
+      "date":"1 Jan - 26 Aug 2021",
+      "duration":20,
+      "price":20000
+   },
+   {
+      "id":3333,
+      "name":"Professional Programming with C#",
+      "img":"https://static.skillshare.com/uploads/discussion/tmp/46de5ee9.png",
+      "date":"8 Oct - 26 Nov 2021",
+      "duration":12,
+      "price":5500
+   },
+   {
+      "id":4444,
+      "name":"Full Stack Asp.net Core MVC Web Development",
+      "img":"https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/115369258/original/e445350b4a28d612a7001048b2f3b9446367e39a/develop-website-for-you.jpg",
+      "date":"8 Oct - 26 Nov 2021",
+      "duration":8,
+      "price":8000
+   },
+   {
+      "id":5555,
+      "name":"ReactJs - The Complete Guide",
+      "img":"https://peerbits-wpengine.netdna-ssl.com/wp-content/uploads/2019/09/the-benefits-of-reactjs-main.jpg",
+      "date":"8 Oct - 26 Nov 2021",
+      "duration":14,
+      "price":15000
+   },
+   {
+      "id":6666,
+      "name":"Learn PHP Step by Step",
+      "img":"https://embed-ssl.wistia.com/deliveries/acab484c8b01db6a422928057ac799ba.jpg",
+      "date":"8 Oct - 26 Nov 2021",
+      "duration":10,
+      "price":5000
+   },
+   {
+      "id":7777,
+      "name":"Nitty-gritty of Data and Exploratory Analysis with",
+      "img":"https://www.gom.com/-/media/gom-website/global/services/gom-training-overview/elearning/gom_elearning-python-for-beginners_teaser.jpg?as=0&dmc=0&thn=0",
+      "date":"8 Oct - 26 Nov 2021",
+      "duration":13,
+      "price":9000
+   },
+   {
+      "id":8888,
+      "name":"Video editing for beginners in Premiere Pro CC",
+      "img":"https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/130073999/original/8f9edab038752323832dc64e40d57473e69a9595/edit-your-videos-in-premiere-pro.jpg",
+      "date":"8 Oct - 26 Nov 2021",
+      "duration":5,
+      "price":2000
+   },
+   {
+      "id":9999,
+      "name":"Docker Essentials",
+      "img":"https://docker.awsworkshop.io/images/docker-cloud-twitter-card.png",
+      "date":"8 Oct - 26 Nov 2021",
+      "duration":18,
+      "price":20000
+   },
+   {
+      "id":1212,
+      "name":"Professional Android Application Development",
+      "img":"https://buildfire.com/wp-content/uploads/2017/10/become-mobile-app-developer-1200x900.jpg",
+      "date":"8 Oct - 26 Nov 2021",
+      "duration":15,
+      "price":20000
+   },
+   {
+      "id":1313,
+      "name":"Modern JavaScript (ES6)(2nd batch)",
+      "img":"https://res.cloudinary.com/practicaldev/image/fetch/s--vp1sr2L0--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/goh1l649nxvhok278x8g.jpg",
+      "date":"8 Oct - 26 Nov 2021",
+      "duration":2,
+      "price":3000
+   },
+   {
+      "id":1414,
+      "name":"Online Course: Certificate Course On Motion Graphics(2nd batch)",
+      "img":"https://creatorkit.com/gatsby/static/5a7ed4513b0f3a388f5d13e8cdcaa344/d1ef7/What-Is-Motion-Graphics-And-When-To-Use-Them--2020-.jpg",
+      "date":"8 Oct - 26 Nov 2021",
+      "duration":30,
+      "price":18000
+   },
+   {
+      "id":1515,
+      "name":"Web Application Development with Laravel",
+      "img":"https://rettica.com/wp-content/uploads/2020/06/Laravel_in4system.jpg",
+      "date":"1 Jan - 26 Aug 2021",
+      "duration":15,
+      "price":9000
+   },
+   {
+      "id":1616,
+      "name":"Master in Graphic Design",
+      "img":"https://img.freepik.com/free-vector/graphic-design-colorful-geometrical-lettering_52683-34588.jpg?size=626&ext=jpg",
+      "date":"8 Oct - 26 Nov 2021",
+      "duration":12,
+      "price":1000
+   }
+]
