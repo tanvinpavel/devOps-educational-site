@@ -15,6 +15,7 @@ const AllServices = () => {
     return (
         <div>
             <Container className="my-5">
+                <h2 className="text-center mb-5">All Courses</h2>
                 <Row xs={1} md={4} className="g-4">
                     {
                         data.map(singleData => <SingleData key={singleData.id} info={singleData}></SingleData>)

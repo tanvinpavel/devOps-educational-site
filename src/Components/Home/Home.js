@@ -2,7 +2,10 @@ import React from 'react';
 import { useEffect } from 'react';
 import { useState } from 'react';
 import { Container, Row } from 'react-bootstrap';
+import { Link } from 'react-router-dom';
 import SingleData from '../SingleData/SingleData';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import { faArrowRight } from '@fortawesome/free-solid-svg-icons'
 import "./Home.css"
 
 
@@ -23,9 +26,12 @@ const Home = () => {
                         <div className="col-md-12 mt-5 pt-5">
                             <h1 className="display-1 mt-5 pt-5">LEARN FROM THE BEST</h1>
                             <p className="lead">Get Ahead, Improve Your Skill with DevOps Training Institute.</p>
-                            <button className="btn btn-outline-light btn-lg">
-                                <i className="fas fa-arrow-right"></i> Read More
-                            </button>
+                            <Link to="/about">
+                                <button className="btn btn-outline-light btn-lg">
+                                    <FontAwesomeIcon icon={faArrowRight} />
+                                    <i className="fas fa-arrow-right"></i> Read More
+                                </button>
+                            </Link>
                         </div>
                     </div>
                 </div>
