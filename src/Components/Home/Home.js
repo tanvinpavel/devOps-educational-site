@@ -22,15 +22,17 @@ const Home = () => {
                     <div className="row">
                         <div className="col-md-12 mt-5 pt-5">
                             <h1 className="display-1 mt-5 pt-5">LEARN FROM THE BEST</h1>
-                            <p className="lead">Get Ahead, Improve Your Skill with Dev Skill Training Academy.</p>
-                            <a href="#" className="btn btn-outline-light btn-lg"><i className="fa fa-arrow-right"></i> Read More</a>
+                            <p className="lead">Get Ahead, Improve Your Skill with DevOps Training Institute.</p>
+                            <button className="btn btn-outline-light btn-lg">
+                                <i className="fas fa-arrow-right"></i> Read More
+                            </button>
                         </div>
                     </div>
                 </div>
                 </div>
             </section>
-            <Container classNameName="my-5">
-                <Row xs={1} md={4} classNameName="g-4">
+            <Container className="my-5">
+                <Row xs={1} md={4} className="g-4">
                     {
                         data.slice(0,6).map(singleData => <SingleData key={singleData.id} info={singleData}></SingleData>)
                     }
